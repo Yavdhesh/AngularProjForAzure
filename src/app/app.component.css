@@ -1,0 +1,13 @@
+#simple{
+    height: 300px;
+    width: 300px;;
+    background-color: orange;
+}
+
+.sas{
+    transform: translateX(300px) scale(1.6);
+}
+
+span{
+    display: inline-block;
+}
